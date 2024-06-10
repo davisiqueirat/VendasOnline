@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 10px;
+    height: 80px;
+    background-color: rgb(80, 80, 216);
+}
+
+.header h1{
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
